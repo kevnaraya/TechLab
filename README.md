@@ -1,5 +1,7 @@
 # TechLab - Beta 1.0
-This project is a production-ready monolithic e-commerce automation platform, developed using PHP (Laravel, Blade), JavaScript, Tailwind CSS, and MySQL as the relational database. It is containerized with Docker for streamlined deployment and scalability. Designed to automate critical sales and operational workflows, it empowers businesses to boost revenue while focusing on growth and customer experience.
+This project is a production-ready monolithic e-commerce automation platform, developed using PHP (Laravel, Blade), JavaScript, Tailwind CSS, and MySQL as the relational database. It is containerized with Docker for streamlined deployment and scalability. Designed to automate critical sales and operational workflows, it empowers businesses to boost revenue while focusing on growth and customer experience. Our of my customer started using this app to test and lunch to the world in a moment.
+
+https://caselabcr.com/login
 
 # Project Setup Guide
 
